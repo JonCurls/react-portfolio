@@ -65,9 +65,6 @@ function Project() {
                       <a href={image.deploy} className="subtitle is-6">
                         Deploy
                       </a>
-                      <a href="https://github.com/Joeyryanbridges">
-                        <img src="GitHub-32px.png" className="githubIcon" />
-                      </a>
                     </div>
                   </div>
                 </div>

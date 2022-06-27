@@ -5,7 +5,7 @@ import Footer from "./components/Footer";
 
 function App() {
   return (
-    <div className="columns is-flex-direction-column is-fullheight-100vh">
+    <div>
       <Header />
       <Footer />
     </div>
