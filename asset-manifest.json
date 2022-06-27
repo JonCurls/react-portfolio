@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/react-portfolio/static/css/main.743d7fcf.css",
+    "main.js": "/react-portfolio/static/js/main.cecd5ba6.js",
+    "static/media/challenge1.PNG": "/react-portfolio/static/media/challenge1.ef94777282716f4498aa.PNG",
+    "static/media/runbuddy.PNG": "/react-portfolio/static/media/runbuddy.4ced22b0d13233aee448.PNG",
+    "static/media/thumbnail.PNG": "/react-portfolio/static/media/thumbnail.70eda4b341083fb90b2c.PNG",
+    "static/media/patio.PNG": "/react-portfolio/static/media/patio.eda5d9cae3928d7ed1d7.PNG",
+    "static/media/cashTracker.PNG": "/react-portfolio/static/media/cashTracker.6f71142a0fbad8b5e42e.PNG",
+    "static/media/codeQuiz.PNG": "/react-portfolio/static/media/codeQuiz.f0d94139d32007a84fd5.PNG",
+    "static/media/fantasyChat.PNG": "/react-portfolio/static/media/fantasyChat.057960baf084b5b15458.PNG",
+    "static/media/workScheduler.PNG": "/react-portfolio/static/media/workScheduler.86a67693b6d2d92ae315.PNG",
+    "index.html": "/react-portfolio/index.html",
+    "main.743d7fcf.css.map": "/react-portfolio/static/css/main.743d7fcf.css.map",
+    "main.cecd5ba6.js.map": "/react-portfolio/static/js/main.cecd5ba6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.743d7fcf.css",
+    "static/js/main.cecd5ba6.js"
+  ]
+}
