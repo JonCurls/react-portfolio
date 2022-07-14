@@ -44,6 +44,13 @@ function Project() {
       github: "https://github.com/JonCurls/",
       key: 6,
     },
+    {
+      name: "current",
+      title: "Current",
+      deploy: "https://desolate-crag-78193.herokuapp.com/",
+      github: "https://github.com/JonCurls/current",
+      key: 6,
+    },
   ]);
 
   return (
